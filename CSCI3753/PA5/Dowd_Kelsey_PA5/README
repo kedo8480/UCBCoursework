@@ -1,0 +1,8 @@
+Kelsey Dowd
+Programming Assignment 5
+
+To run the code
+
+make clean
+make
+./pa5-encfs -d <encryptionkey> <mirrordir> <mountdir>

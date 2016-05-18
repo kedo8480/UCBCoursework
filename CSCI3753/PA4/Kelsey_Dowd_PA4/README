@@ -1,0 +1,7 @@
+Kelsey Dowd
+PA4 Submission
+
+How to run:
+>> make
+>> ./test-lru
+>> ./test-predict
